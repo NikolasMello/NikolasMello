@@ -1,6 +1,6 @@
 <h1>Hello, I'm Nikolas Mello!</h1>
 
-- 🔭 I’m currently working as Front-end Developer at Sysalti
+- 🔭 I’m currently working as Mid-level Front-end Developer at Sysalti
 - 📚 I’m currently  studying React more deeply
 - ❔ Ask me about React or Angular
 
