@@ -21,8 +21,8 @@ I also have experience with <b>real-time applications</b> and interactive system
 - Implemented real-time communication using <b>MQTT</b> to interact with a 3D player  
 - Built interactive interfaces for immersive environments  
 
-🔗 [VR4LIFE WEB](https://vr4life.com)  
-🔗 Steam: https://your-steam-link-here  
+🔗 [WEB](https://vr4life.com)  
+🔗 [STEAM](https://store.steampowered.com/app/3914520/VR4life/)  
 
 ---
 
@@ -31,7 +31,7 @@ I also have experience with <b>real-time applications</b> and interactive system
 - Fully responsible for mobile experience without any design reference  
 - Defined layout, responsiveness and UX decisions  
 
-🔗 https://altikids.com  
+🔗 [SITE](https://altikids.com/)  
 
 ---
 
