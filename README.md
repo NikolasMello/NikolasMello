@@ -31,7 +31,7 @@ I also have experience with <b>real-time applications</b> and interactive system
 - Fully responsible for mobile experience without any design reference  
 - Defined layout, responsiveness and UX decisions  
 
-🔗 [SITE](https://altikids.com/)  
+🔗 [WEBSITE](https://altikids.com/)  
 
 ---
 
