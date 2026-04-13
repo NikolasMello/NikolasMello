@@ -21,7 +21,7 @@ I also have experience with <b>real-time applications</b> and interactive system
 - Implemented real-time communication using <b>MQTT</b> to interact with a 3D player  
 - Built interactive interfaces for immersive environments  
 
-🔗 Web: https://your-link-here  
+🔗 Web: [LINK](https://vr4life.com)  
 🔗 Steam: https://your-steam-link-here  
 
 ---
