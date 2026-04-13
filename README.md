@@ -1,7 +1,7 @@
 <h1>Hey, I'm Nikolas Mello 👋</h1>
 
 <p>
-Mid-level Front-end Developer with 3+ years of experience building modern, responsive and high-performance web applications.
+Mid-level Front-end Developer with 4 years of experience building modern, responsive and high-performance web applications.
 </p>
 
 <p>
