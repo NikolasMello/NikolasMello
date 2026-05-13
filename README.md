@@ -21,13 +21,9 @@ I also have experience with <b>real-time applications</b> and interactive system
 - Implemented real-time communication using <b>MQTT</b> to interact with a 3D player  
 - Built interactive interfaces for immersive environments  
 
-<a href="https://vr4life.com" target="_blank" rel="noopener noreferrer">
-  🔗 WEB
-</a>
-</br>
-<a href="https://store.steampowered.com/app/3914520/VR4life/" target="_blank" rel="noopener noreferrer">
-  🔗 STEAM
-</a>
+🔗 [WEB](https://vr4life.com)
+🔗 [STEAM](https://store.steampowered.com/app/3914520/VR4life/) 
+
 
 ---
 
