@@ -40,10 +40,10 @@ I also have experience with <b>real-time applications</b> and interactive system
 ## 🛠️ Tech Stack
 
 ### Front-end
-<img src="https://skillicons.dev/icons?i=react,angular,nextjs,ts,js,html,css,tailwind,materialui" />
+<img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,angular,materialui,tailwind,css,html" />
 
 ### Back-end (support)
-<img src="https://skillicons.dev/icons?i=nodejs,java,spring,mysql" />
+<img src="https://skillicons.dev/icons?i=dotnet,nodejs,java,spring,mysql" />
 
 ### Tools
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,idea,figma" />
