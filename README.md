@@ -28,12 +28,14 @@ I also have experience with <b>real-time applications</b> and interactive system
 
 ---
 
-### 🎨 Altikids (Website)
-- Developed the front-end based on a desktop-only design  
-- Fully responsible for mobile experience without any design reference  
-- Defined layout, responsiveness and UX decisions  
+### 🩺 Dr. Antonio Augusto Neves (Website)
+- Designed and developed the website from scratch using Next.js
+- Defined the complete visual design, layout, responsiveness and UX
+- Developed a fully responsive experience for desktop, tablet and mobile
+- Configured SEO strategies and metadata for search engine optimization
+- Implemented an email service using PHP
 
-🔗 [WEBSITE](https://altikids.com/)  
+🔗 [WEBSITE](https://www.drantonionevesurologista.com.br/)
 
 ---
 
